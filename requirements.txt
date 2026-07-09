@@ -1,0 +1,6 @@
+pygetwindow
+tqdm
+requests
+numpy
+psutil
+pywin32
